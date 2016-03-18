@@ -1,0 +1,28 @@
+name: 150BPM
+favicon: null
+layout_spectrum: 0.7977976042311639
+typography_spectrum: 0.30658096889965236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8494940001983196
+  lightness: 0.34045314276590943
+  saturation: 0.3460430109407753
+  rhythmicContrast: 0.17355829593725502
+purpose: []
