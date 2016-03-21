@@ -1,6 +1,6 @@
 name: 150BPM
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.3227
 typography_spectrum: 0.30658
 title: Dubstep --- Techno --- Hard House
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#97d5d0'
-    - '#ed7d2b'
-    - '#049286'
-    - '#333333'
+    - '#fbfdfc'
+    - '#e14419'
+    - '#641a4f'
+    - '#a9ca21'
+    - '#000000'
   brandStrength: 0.8494940001983196
   lightness: 0.375
   saturation: 0.4375
