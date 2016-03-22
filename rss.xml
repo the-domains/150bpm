@@ -4,8 +4,15 @@
         <description><![CDATA[The Music Is What You Make It   {Dubstep}  {Techno}  {Hard House}  ]]></description>
         <link>https://thegrid.ai/150bpm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 04:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 04:41:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/150bpm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How Detroit Is Monetizing Techno </p>]]></description>
+            <link>http://www.forbes.com/sites/natalierobehmed/2015/08/24/how-detroit-is-monetizing-techno/#163d230a21a1</link>
+            <guid isPermaLink="false">202fab37-5849-4c36-9b17-69dab5a5cb9c</guid>
+            <pubDate>Tue, 22 Mar 2016 04:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Electronic Music Saved These Soldiers' Lives</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b10bf0a1-1751-44de-8661-5e752103c1a1.jpg">]]></description>
             <link>https://thegrid.ai/150bpm/1b642982-cd72-4abb-ae4a-4e477fed0f20/index.html</link>
             <guid isPermaLink="false">1b642982-cd72-4abb-ae4a-4e477fed0f20</guid>
-            <pubDate>Mon, 21 Mar 2016 21:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf3becee-aee9-4f94-9b57-9c8b4af0b29f.jpg">]]></description>
-            <link>https://thegrid.ai/150bpm/559b8ebb-88b1-4c46-a445-9ce19d204b54/index.html</link>
-            <guid isPermaLink="false">559b8ebb-88b1-4c46-a445-9ce19d204b54</guid>
             <pubDate>Mon, 21 Mar 2016 21:37:53 GMT</pubDate>
         </item>
     </channel>
