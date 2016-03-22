@@ -4,8 +4,15 @@
         <description><![CDATA[The Music Is What You Make It   {Dubstep}  {Techno}  {Hard House}  ]]></description>
         <link>https://thegrid.ai/150bpm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 02:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 04:34:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/150bpm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Electronic Music Saved These Soldiers' Lives</p>]]></description>
+            <link>https://thump.vice.com/en_us/article/electronic-music-saved-these-amputee-soldiers-lives</link>
+            <guid isPermaLink="false">55938264-997d-42db-90d6-f9d40891755d</guid>
+            <pubDate>Tue, 22 Mar 2016 04:34:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92ceef3-555f-4362-a1a6-0aa38ac52688.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf3becee-aee9-4f94-9b57-9c8b4af0b29f.jpg">]]></description>
             <link>https://thegrid.ai/150bpm/559b8ebb-88b1-4c46-a445-9ce19d204b54/index.html</link>
             <guid isPermaLink="false">559b8ebb-88b1-4c46-a445-9ce19d204b54</guid>
-            <pubDate>Mon, 21 Mar 2016 21:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bd1ac7-2103-4098-a7cd-cccb96c13b3d.jpg">]]></description>
-            <link>https://thegrid.ai/150bpm/2ab4a331-2475-4baf-8da8-68a73e6de256/index.html</link>
-            <guid isPermaLink="false">2ab4a331-2475-4baf-8da8-68a73e6de256</guid>
             <pubDate>Mon, 21 Mar 2016 21:37:53 GMT</pubDate>
         </item>
     </channel>
